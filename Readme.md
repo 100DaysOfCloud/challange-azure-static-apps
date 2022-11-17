@@ -10,10 +10,10 @@
 
 ## Instructions
 
-1. [ ] Fork this repo
+1. [ ] In Github: Use this Template and Create a new repository
+1. [ ] Launch the Gitpod or Github Codespaces
 1. [ ] generate new react app `npx create-react-app my-app`
 1. [ ] commit code to repo
-1. [ ] Launch the Gitpod or Github Codespaces
 1. [ ] Test the app works eg. `cd my-app; npm start`
 1. [ ] (If using Gitpod) Gitpod: Open in VSCode (Open's Gitpod in your Local VSCode)
 1. [ ] Install `Azure Static Web Apps` VSCode Extension on your Local Machine
