@@ -23,12 +23,20 @@
 1. [ ] Delete he Azure Static Web-app within VSCode
 
 
-## Considerations
+## Gitpod Considerations
 
 Gitpod uses the [Open VSX Registry](https://open-vsx.org/)
 The extension we need is in Microsoft's proprietary marketplace which is the default Marketplace for Vscode.
 If you are using Gitpod you can get around this issue by simply launching Gitpod in your Local VSCode since
 that will be using Microsoft's proprietary marketplace.
+
+## Github Codespaces Considerations
+
+Github Codespaces (at the time I created this lab) was defaulting to NodeJS.
+So I included a devcontainer to configure Github Codespaces to use Node 18.
+
+The reason this matters is that Github Actions needed at least Node 12.
+
 
 ## References
 
