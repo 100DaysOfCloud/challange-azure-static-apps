@@ -10,17 +10,17 @@
 
 ## Instructions
 
-- [ ] Fork this repo
-- [ ] generate new react app `npx create-react-app my-app`
-- [ ] commit code to repo
-- [ ] Launch the Gitpod or Github Codespaces
-- [ ] Test the app works eg. `cd my-app; npm start`
-- [ ] (If using Gitpod) Gitpod: Open in VSCode (Open's Gitpod in your Local VSCode)
-- [ ] Install `Azure Static Web Apps` VSCode Extension on your Local Machine
-- [ ] Log into Azure within VSCode
-- [ ] Create and configure Azure Static Web-App (Within VSCode)
-- [ ] Browse Site for for the new Azure Static Web-app and confirm its deployed
-- [ ] Delete he Azure Static Web-app within VSCode
+1. [ ] Fork this repo
+1. [ ] generate new react app `npx create-react-app my-app`
+1. [ ] commit code to repo
+1. [ ] Launch the Gitpod or Github Codespaces
+1. [ ] Test the app works eg. `cd my-app; npm start`
+1. [ ] (If using Gitpod) Gitpod: Open in VSCode (Open's Gitpod in your Local VSCode)
+1. [ ] Install `Azure Static Web Apps` VSCode Extension on your Local Machine
+1. [ ] Log into Azure within VSCode
+1. [ ] Create and configure Azure Static Web-App (Within VSCode)
+1. [ ] Browse Site for for the new Azure Static Web-app and confirm its deployed
+1. [ ] Delete he Azure Static Web-app within VSCode
 
 
 ## Considerations
