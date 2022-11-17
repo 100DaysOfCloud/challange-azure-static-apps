@@ -1,33 +1,34 @@
 
 # Deploy a Static Web App with Azure Static Web Apps.
 
-## Prerequiests
+## Prerequisites
 
-- Github account
-- Gitpod account
-- VSCode Locally installed on your computer
+- Github account (free tier)
+- Gitpod account or Github Workspaces (free tier)
+  - If using Gitpod: VSCode Locally installed on your computer
 - Microsoft Azure account 
 
 ## Instructions
 
-- [] Fork this repo
-- [] generate new react app `npx create-react-app my-app`
-- [] commit code to repo
-- [] Launch the Gitpod
-- [] Test the app works eg. `cd my-app; npm start`
-- [] Gitpod: Open in VSCode (Open's Gitpod in your Local VSCode)
-- [] Install `Azure Static Web Apps` VSCode Extension on your Local Machine
-- [] Log into Azure within VSCode
-- [] Create and configure Azure Static Web-App (Within VSCode)
-- [] Browse Site for for the new Azure Static Web-app and confirm its deployed
-- [] Delete he Azure Static Web-app within VSCode
+- [ ] Fork this repo
+- [ ] generate new react app `npx create-react-app my-app`
+- [ ] commit code to repo
+- [ ] Launch the Gitpod or Github Codespaces
+- [ ] Test the app works eg. `cd my-app; npm start`
+- [ ] (If using Gitpod) Gitpod: Open in VSCode (Open's Gitpod in your Local VSCode)
+- [ ] Install `Azure Static Web Apps` VSCode Extension on your Local Machine
+- [ ] Log into Azure within VSCode
+- [ ] Create and configure Azure Static Web-App (Within VSCode)
+- [ ] Browse Site for for the new Azure Static Web-app and confirm its deployed
+- [ ] Delete he Azure Static Web-app within VSCode
 
 
 ## Considerations
 
-We need to install the `Azure Static Web Apps` VSCode Extension which can only be installed on a local VSCode.
-Gitpod is unable to install certain VSCode Extensions since they use a Open VSCode Marketplace.
-So you need to use the Gitpod remote feature to utilize Gitpod as well as the VSCode Extensions we need.
+Gitpod uses the [Open VSX Registry](https://open-vsx.org/)
+The extension we need is in Microsoft's proprietary marketplace which is the default Marketplace for Vscode.
+If you are using Gitpod you can get around this issue by simply launching Gitpod in your Local VSCode since
+that will be using Microsoft's proprietary marketplace.
 
 ## References
 
