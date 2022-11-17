@@ -11,6 +11,8 @@
 ## Instructions
 
 - [] Fork this repo
+- [] generate new react app `npx create-react-app my-app`
+- [] commit code to repo
 - [] Launch the Gitpod
 - [] Test the app works eg. `cd my-app; npm start`
 - [] Gitpod: Open in VSCode (Open's Gitpod in your Local VSCode)
@@ -20,14 +22,6 @@
 - [] Browse Site for for the new Azure Static Web-app and confirm its deployed
 - [] Delete he Azure Static Web-app within VSCode
 
-
-## How the Sample App was generated
-
-The React application was generated using this single command.
-
-```
-npx create-react-app my-app
-```
 
 ## Considerations
 
